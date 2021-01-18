@@ -175,7 +175,7 @@ kramdown:
 
 # Collections
 collections:
-  teaching:
+  cookingrecipes:
     output: true
     permalink: /:collection/:path/
   publications:
@@ -209,10 +209,10 @@ defaults:
     values:
       layout: single
       author_profile: true
-  # _teaching
+  # _cookingrecipes
   - scope:
       path: ""
-      type: teaching
+      type: cookingrecipes
     values:
       layout: single
       author_profile: true
