@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Justojoo"
+title                    : "Anirudh Tomer"
 title_separator          : "-"
 name                     : &name "Anirudh Tomer"
 description              : 
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Anirudh Tomer"
+  name             : 
   avatar           : "profile.jpg"
   bio              : "I love good food, visiting mountains, taking pictures, and solving problems. In my professional life I am currently doing statistics/machine learning and programming."
   location         : "Netherlands"
@@ -96,13 +96,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/anirudhtomer"
+  github           : "anirudhtomer"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/anirudhtomer/"
+  linkedin         : "anirudhtomer"
   orcid            : 
   pinterest        :
   soundcloud       :
