@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Anirudhtomer / Site Title"
+title                    : "Justojoo"
 title_separator          : "-"
 name                     : &name "Anirudh Tomer"
-description              : &description "Personal webpage for professional work and photos of hiking"
+description              : 
 url                      : https://anirudhtomer.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "anirudhtomer/anirudhtomer.github.io"
