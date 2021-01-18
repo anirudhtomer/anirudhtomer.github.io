@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Anirudh Tomer"
+title                    : "About"
 title_separator          : "-"
 name                     : &name "Anirudh Tomer"
 description              : 
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : 
+  name             : "Anirudh Tomer"
   avatar           : "profile.jpg"
   bio              : "I love cooking, visiting mountains, landscape photography, and solving problems. In my professional life I am currently doing statistics/machine learning and programming."
   location         : "Netherlands"
