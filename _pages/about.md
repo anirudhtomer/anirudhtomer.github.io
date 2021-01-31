@@ -1,15 +1,22 @@
 ---
 permalink: /
-title: "About me"
-excerpt: "About me"
+title: "About"
+excerpt: "About"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-My name is Anirudh Tomer. My first name means "unrestrained", "without obstacles" or "unstoppable", although as I learned in life that is never true :). Nevertheless the name has a fun [mythological story](https://en.wikipedia.org/wiki/Aniruddha) too. What's in a name anyway? I was born and raised in India, where I lived the first 24 years of my life. I then moved to Leuven, Belgium to study at KU Leuven, and subsequently to Rotterdam, the Netherlands to study at Erasmus University Rotterdam. I currently live with my lovely wife Nikhita in the beautiful town of Schiedam, the Netherlands next to a really lovely canal with old trading ships. 
+Dear reader,
 
-For a living, I currently do statistics/machine learning and programming. My current favorite area in statistics/ML is time series analysis, followed by computer vision for medical images. I was fortunate to obtain a Ph.D. in (Bio) Statistics under the guidance of [Dimitris Rizopoulos](http://www.drizopoulos.com/) and [Ewout Steyerberg](https://en.wikipedia.org/wiki/Ewout_W._Steyerberg). I enjoy programming in dynamically typed languages, like Python, R, and JavaScript. Having said that, I often also detest sitting in front of a computer for a living. 
+How likely is it that out of the billions of web pages on the internet you chose mine to visit? Welcome. 
 
-Outside work, my main fun activity is just being outdoors in nature. I enjoy cycling, kayaking, walking, hiking, watching birds and (farm) animals, taking pictures of landscapes, and just pondering about life in general with a cup of black tea. I am quite passionate about cooking, and I can cook Indian, Italian, Greek, Mexican, Middle-eastern, Sichuan-chinese, and fusion food. Three to five times a year I also visit big mountains, to marvel at the wonders of this nature, and to be away from big city life. I try not to rent a car and rely on public transport and hitchhiking. My most memorable trip so far was to the island of La Palma in Spain. I was fortunate to have visited Iceland twice and I really miss sitting in the sundlaug (hot water swimming pools) after a long hike with sore legs.
+My aim to create this website was to share experiences I obtained in the limited amount of travel I was able to afford outside my commitments for work and family. Some are based on the fortunate times I shared with strangers and friends, and a few others are related to work. For now I have categorized them as scientific publications, stories, photography, cooking, and a few other miscellaneous things. Before I introduce myself, a fun fact I can tell you is that my name has an interesting Indian [mythological story](https://en.wikipedia.org/wiki/Aniruddha) associated with it. I grew up in India and lived there for the first 24 years of my life. Since then I have lived in Belgium and the Netherlands. I am extremely grateful to the Belgian people for allowing me to study for an MSc in Statistics, on a tuition fees cheaper than in India. My alma mater KU Leuven, also gave me the opportunity to switch careers from Computer Science to Statistics. I am indebted to [Dimitris](http://www.drizopoulos.com/) for giving me a chance to pursue a PhD under his guidance at ErasmusMC, Rotterdam. He gave me freedom to spend 4 years the way I wanted. Despite the amazing time I had with him, I decided that PhD was the end of my academic life, and I have now moved on to the industry. While I am working as a data scientist for now, next I would like to spend some time being a farmer and see if that is something for me.
+
+Outside work, my main fun activity is being outdoors in nature and cooking. I enjoy cycling, kayaking, walking, hiking, watching birds and (farm) animals, taking pictures of landscapes, and just pondering about life in general with a cup of black tea. I am quite passionate about cooking, and I can cook Indian, Italian, Greek, Mexican, Middle-eastern, Sichuan-chinese, and fusion food. Three to five times a year I also visit big mountains, to marvel at the wonders of this nature, and to be away from big city life. In Europe, I would like to make my third visit to Iceland, a second visit to the island of La Palma, and a first visit to Lofoten. However, the place I want to visit the most is Concordia, on the way to the base camp of the second highest mountain in the world called K2, in Pakistan.
+
+That's all about me in short. I hope you get joy from this website and perhaps find something more interesting than what brought you here.
+
+My best wishes,
+Anirudh

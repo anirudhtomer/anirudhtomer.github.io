@@ -8,15 +8,15 @@ main:
 
   - title: "Landscape Photography"
     url: /portfolio/
+
+  - title: "Dream Hikes"
+    url: /talks/
   
   - title: "Cooking Recipes"
     url: /cookingrecipes/        
         
   - title: "Blog"
-    url: /year-archive/
-    
- # - title: "Talks"
- #   url: /talks/
-    
+    url: /year-archive/  
+     
   - title: "Guide"
     url: /markdown/
