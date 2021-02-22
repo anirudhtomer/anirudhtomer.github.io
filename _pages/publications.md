@@ -23,6 +23,6 @@ Papageorgiou, G., Mauff, K., **Tomer, A.**, and Rizopoulos, D. (2019). An overvi
 Nieboer, D., **Tomer, A.**, Rizopoulos, D., Roobol, M.J., and Steyerberg, E.W. (2018). Active surveillance: a review of risk-based, dynamic monitoring. *Translational Andrology and Urology*, 7(1), 106--115. doi:[10.21037/tau.2017.12.27](https://doi.org/10.21037/tau.2017.12.27).
 
 ## PhD Defense
-My PhD defense dated September 16, 2020 is available on YouTube. It happened during the Coronavirus pandemic and hence it was conducted online.
+My PhD defense dated September 16, 2020 is available on [YouTube](https://youtu.be/iUOA1IDUJ28). It happened during the Coronavirus pandemic and hence it was conducted online.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/iUOA1IDUJ28" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
