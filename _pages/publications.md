@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-Since I graduated with a PhD in Biostatistics in 2020 I am not as actively writing research articles. Nevertheless, here are the articles that I have been able to publish. These articles also comprise my PhD thesis available on [GitHub](https://github.com/anirudhtomer/PhDThesis/blob/master/latex/thesis.pdf). The thesis is also available via the [thesis repository](https://github.com/anirudhtomer/PhDThesis/blob/master/latex/thesis.pdf) of Erasmus University Rotterdam.
+I graduated with a PhD in Biostatistics in 2020 and then moved to the industry. Hence, I am not as actively writing research articles. Nevertheless, here are the articles I contributed in the area of Biostatistics. These articles also comprise my PhD thesis available on [GitHub](https://github.com/anirudhtomer/PhDThesis/blob/master/latex/thesis.pdf). The thesis is also available via the [thesis repository](https://github.com/anirudhtomer/PhDThesis/blob/master/latex/thesis.pdf) of Erasmus University Rotterdam.
 
 ## Articles
 **Tomer, A.**, Nieboer, D., Roobol, M.J., Steyerberg, E.W., and Rizopoulos, D. (2019), Personalized schedules for surveillance of low-risk prostate cancer patients. *Biometrics*, 75: 153--162. doi:[10.1111/biom.12940](https://doi.org/10.1111/biom.12940).
