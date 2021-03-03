@@ -9,11 +9,11 @@ main:
   - title: "Photography"
     url: /photography/
 
-  - title: "Future Hikes"
-    url: /talks/
+ # - title: "Future Hikes"
+ #   url: /talks/
   
-  - title: "Cooking Recipes"
-    url: /cookingrecipes/        
+ # - title: "Cooking Recipes"
+ #   url: /cookingrecipes/        
         
   - title: "Blog"
     url: /year-archive/  
