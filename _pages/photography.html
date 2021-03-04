@@ -5,9 +5,17 @@ permalink: /photography/
 author_profile: true
 ---
 
-I was never a photographer, but I always enjoyed taking pictures. I started with a Sony Cybershot DSC-HV10V which I used from 2013 to 2019, and then I switched to a Sony RX100-VA from 2019 to 2020. Starting from 2021 I am using a mobile phone for my pictures and a DJI Mini 2 drone for aerial photos and aerial filmography. Below I have shared collages of my favorite 4 pictures from each country I have visited for the purpose of hiking. When you click on the title link of the country, it should take you to a page where I have provided multiple albums from various hikes, along with descriptions of the country, its people, culture, food, and landscapes. 
+I was never a photographer, but I always enjoyed taking pictures. I started with a Sony Cybershot DSC-HV10V which I used from 2013 to 2019, and then I switched to a Sony RX100-VA from 2019 to 2020. Starting from 2021 I am using a mobile phone for my pictures and a DJI Mini 2 drone for aerial photos and aerial filmography. Below I have shared collages of my favorite 4 pictures from each country I have visited for the purpose of hiking. When you click on the title link of the country, it should take you to a page where I have provided more photos from various hikes, along with descriptions of the country, its people, culture, food, and landscapes. 
 
 {% include base_path %}
+
+{% for post in site.photography %}
+  {% if post.link %}
+  	<a href="{{ post.link }}">{{ post.title }}</a> <a href="{{ base_path }}{{ post.url }}" rel="permalink"><i class="fa fa-link" aria-hidden="true" title="permalink"></i><span class="sr-only">Permalink</span></a>
+  {% else %}
+  	<a href="{{ base_path }}{{ post.url }}" rel="permalink">{{ post.title }}</a>
+  {% endif %}
+{% endfor %}
 
 {% for post in site.photography %}
   {% include archive-single.html %}
