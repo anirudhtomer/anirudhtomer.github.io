@@ -8,9 +8,9 @@
 
 /* Create four equal columns that sits next to each other */
 .img_column {
-  -ms-flex: 33.34%; /* IE10 */
-  flex: 33.34%;
-  max-width: 33.34%;
+  -ms-flex: 50%; /* IE10 */
+  flex: 50%;
+  max-width: 50%;
   padding: 0 4px;
 }
 
