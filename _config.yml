@@ -184,7 +184,7 @@ collections:
   photography:
     output: true
     permalink: /:collection/:path/
-  talks:
+  videography:
     output: true
     permalink: /:collection/:path/
 
@@ -236,12 +236,12 @@ defaults:
       author_profile: true
       share: true
       comment: true
-  # _talks
+  # _videography
   - scope:
       path: ""
-      type: talks
+      type: videography
     values:
-      layout: talk
+      layout: single
       author_profile: true
       share: true
 
