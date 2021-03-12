@@ -8,9 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-> The longer I live, the more certain I am that there are no accidents in life. There are no chance meetings; everything happens according to a plan, regularly and in order. 
-
-This quote by Anatoli Boukreev, Above the Clouds: The Diaries of a High-Altitude Mountaineer
+> The longer I live, the more certain I am that there are no accidents in life. There are no chance meetings; everything happens according to a plan, regularly and in order. - Anatoli Boukreev, Above the Clouds: The Diaries of a High-Altitude Mountaineer
 
 *'We are the sum total of experiences'*, and in this regard, nothing has influenced my life more than the repetitive strain injury I went through in the year 2013-2014. The physical aspects of the injury ended my career as a software developer, dear to me back then. However, at the same time, it brought me closer to life sciences and mathematics, subjects that my father taught me outdoors with real-world examples and much enthusiasm. With good fortune, I was able to fulfill my desire to contribute to science on a high level, and in 2020 I graduated with a PhD in Biostatistics at Erasmus University Rotterdam, the Netherlands. I am grateful to life for bestowing me with a genuine interest in science and the natural world we live in. Currently, I work as a Biostatistician working with scientists involved in developing new vaccines for a variety of diseases.
 
