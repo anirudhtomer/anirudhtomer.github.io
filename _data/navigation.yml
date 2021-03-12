@@ -16,7 +16,7 @@ main:
  #   url: /cookingrecipes/        
         
   - title: "Blog"
-    url: /year-archive/  
+    url: /blog/  
      
 #  - title: "Guide"
 #    url: /markdown/
